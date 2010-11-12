@@ -318,7 +318,7 @@ class ThreeWP_LoginTracker extends ThreeWP_Base_LoginTracker
 	}
 	
 	public function userLatestLogins()
-	{
+	{	
 		$form = $this->form();
 		
 		$tBody = '';
@@ -577,8 +577,9 @@ class ThreeWP_LoginTracker extends ThreeWP_Base_LoginTracker
 	{
 		if ($user_id == 0)
 			return;
+		$date = date('Y-m-d H:i:s', current_time('timestamp'));
 		$this->query("INSERT INTO `".$this->wpdb->base_prefix."_3wp_logintracker_logins` (user_id, login_successful, datetime, remote_addr, remote_host, user_agent) VALUES
-			('".$user_id."', '".$success."', now(), '".$_SERVER['REMOTE_ADDR']."', '".$_SERVER['REMOTE_HOST']."', '".$_SERVER['HTTP_USER_AGENT']."')");
+			('".$user_id."', '".$success."', '".$date."', '".$_SERVER['REMOTE_ADDR']."', '".$_SERVER['REMOTE_HOST']."', '".$_SERVER['HTTP_USER_AGENT']."')");
 		$this->sqlLoginStatsRegenerate($user_id); 
 	}
 	
