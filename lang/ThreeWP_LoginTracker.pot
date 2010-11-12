@@ -1,0 +1,122 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/threewp-logintracker\n"
+"POT-Creation-Date: 2010-11-12 20:53+0100\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ThreeWP_LoginTracker.php:125
+msgid "Login Tracker"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:146
+msgid "Various login statistics about the user"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:146 ThreeWP_LoginTracker.php:205
+msgid "Login statistics"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:174
+msgid "No login data available"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:186
+msgid "Latest login attempt: "
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:186 ThreeWP_LoginTracker.php:341
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:210
+msgid "Successful logins: "
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:213
+msgid "Failed logins: "
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:224
+msgid "Yes"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:224
+msgid "No"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:235
+msgid "Login successful?"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:236 ThreeWP_LoginTracker.php:361
+msgid "Date and time"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:237 ThreeWP_LoginTracker.php:363
+msgid "IP address"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:238 ThreeWP_LoginTracker.php:364
+msgid "User agent"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:255 ThreeWP_LoginTracker.php:450
+msgid "Crop the login list down to this amount of rows"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:267
+msgid "Clear the list of logins"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:302
+msgid "Latest logins"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:305
+msgid "User overview"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:310
+msgid "Settings"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:313
+msgid "Uninstall"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:362 ThreeWP_LoginTracker.php:402
+msgid "Username"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:403
+msgid "Logins"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:404
+msgid "Successful logins"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:405
+msgid "Failed logins"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:406
+msgid "Latest login"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:491
+msgid "Apply"
+msgstr ""

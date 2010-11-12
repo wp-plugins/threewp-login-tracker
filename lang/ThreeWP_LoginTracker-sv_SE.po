@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/threewp-logintracker\n"
+"POT-Creation-Date: 2010-11-12 20:53+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Edward <edward@edwardh.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: SWEDEN\n"
+
+#: ThreeWP_LoginTracker.php:125
+msgid "Login Tracker"
+msgstr "Login Tracker"
+
+#: ThreeWP_LoginTracker.php:146
+msgid "Various login statistics about the user"
+msgstr "Användarens inloggningsstatistik"
+
+#: ThreeWP_LoginTracker.php:146
+#: ThreeWP_LoginTracker.php:205
+msgid "Login statistics"
+msgstr "Inloggningsstatistik"
+
+#: ThreeWP_LoginTracker.php:174
+msgid "No login data available"
+msgstr "Ingen data tillgänglig"
+
+#: ThreeWP_LoginTracker.php:186
+msgid "Latest login attempt: "
+msgstr "Senast inloggningsförsök:"
+
+#: ThreeWP_LoginTracker.php:186
+#: ThreeWP_LoginTracker.php:341
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ThreeWP_LoginTracker.php:210
+msgid "Successful logins: "
+msgstr "Lyckade inloggningar:"
+
+#: ThreeWP_LoginTracker.php:213
+msgid "Failed logins: "
+msgstr "Misslyckade inloggningar:"
+
+#: ThreeWP_LoginTracker.php:224
+msgid "Yes"
+msgstr "Ja"
+
+#: ThreeWP_LoginTracker.php:224
+msgid "No"
+msgstr "Nej"
+
+#: ThreeWP_LoginTracker.php:235
+msgid "Login successful?"
+msgstr "Lyckades inloggningsförsök?"
+
+#: ThreeWP_LoginTracker.php:236
+#: ThreeWP_LoginTracker.php:361
+msgid "Date and time"
+msgstr "Datum och tid"
+
+#: ThreeWP_LoginTracker.php:237
+#: ThreeWP_LoginTracker.php:363
+msgid "IP address"
+msgstr "IP-adress"
+
+#: ThreeWP_LoginTracker.php:238
+#: ThreeWP_LoginTracker.php:364
+msgid "User agent"
+msgstr "Webbläsare"
+
+#: ThreeWP_LoginTracker.php:255
+#: ThreeWP_LoginTracker.php:450
+msgid "Crop the login list down to this amount of rows"
+msgstr "Beskär inloggningslistan till det här antalet inloggningar"
+
+#: ThreeWP_LoginTracker.php:267
+msgid "Clear the list of logins"
+msgstr "Töm listan på inloggningar"
+
+#: ThreeWP_LoginTracker.php:302
+msgid "Latest logins"
+msgstr "Senaste inloggningar"
+
+#: ThreeWP_LoginTracker.php:305
+msgid "User overview"
+msgstr "Användaröversikt"
+
+#: ThreeWP_LoginTracker.php:310
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ThreeWP_LoginTracker.php:313
+msgid "Uninstall"
+msgstr "Avinstallation"
+
+#: ThreeWP_LoginTracker.php:362
+#: ThreeWP_LoginTracker.php:402
+msgid "Username"
+msgstr "Användarnamn"
+
+#: ThreeWP_LoginTracker.php:403
+msgid "Logins"
+msgstr "Inloggningar"
+
+#: ThreeWP_LoginTracker.php:404
+msgid "Successful logins"
+msgstr "Lyckade inloggningar"
+
+#: ThreeWP_LoginTracker.php:405
+msgid "Failed logins"
+msgstr "Misslyckade inloggningar"
+
+#: ThreeWP_LoginTracker.php:406
+msgid "Latest login"
+msgstr "Senaste inloggningen"
+
+#: ThreeWP_LoginTracker.php:491
+msgid "Apply"
+msgstr "Verkställ"
+
