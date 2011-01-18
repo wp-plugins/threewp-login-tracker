@@ -3,10 +3,13 @@ Tags: network, wpms, wpmu, login, logins, password, tracker, list, last login
 Requires at least: 3.0
 Tested up to: 3.0
 Stable tag: trunk
+Contributor: edward mindreantre
 
 Tracks all logins and login attempt on a blog or network.
 
 == Description ==
+
+This plugin has been superceded by <a href="http://wordpress.org/extend/plugins/threewp-activity-monitor/">ThreeWP Activity Monitor</a> and is therefore no longer maintained.
 
 Maintains a list of logins for all users. Logs successful and unsuccessfull logins for each user.
 
